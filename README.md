@@ -1,2 +1,2 @@
-# website
-A react base repository for the website of pideapp.com
+# react-base
+A project base for create new react applications.
